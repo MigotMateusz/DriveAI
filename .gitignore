@@ -17,6 +17,9 @@ notebook/static/*/js/main.min.js*
 notebook/static/lab/*bundle.js
 
 .ipynb_checkpoints
+.ipynb_checkpoints/
+.log/
+.h5
 
 # jetbrains IDE stuff
 *.iml
